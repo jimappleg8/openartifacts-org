@@ -2,3 +2,4 @@
 .jekyll-metadata
 Gemfile.lock
 .DS_Store
+.nova
